@@ -1,8 +1,0 @@
-{
-  "name": "consumer-example",
-  "version": "0.0.1",
-  "description": "my first consumer app",
-  "dependencies": {
-    "express": "4.10.2"
-  }
-}
